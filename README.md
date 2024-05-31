@@ -6,9 +6,12 @@
   - [kita 2404](https://github.com/leedoheon98/kita_2404)
   - [My Educational Oasis](https://github.com/leedoheon98/My-Educational-Oasis)
 
-- 📫 How to reach me: ...  ![Instagram Badge](https://instagram.com/do_heon2)
+- 📫 How to reach me: ...  <a href="https://instagram.com/do_heon2">
+                                <img 
+                                    src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/do_heon2/"
+                                    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+                            </a>
 
-<!--
 **leedoheon98/leedoheon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
