@@ -3,16 +3,12 @@
 
 - 🌱 I’m currently learning ... ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge) ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge)
 - 📫 How to reach me: ... 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/do_heon2">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/do_heon2/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 <!--
 **leedoheon98/leedoheon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
