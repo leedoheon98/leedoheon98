@@ -7,8 +7,9 @@
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge) ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge)
   
 - ⚡ My Learning Records ...
+  - [My Educational Oasis☆★](https://github.com/leedoheon98/My-Educational-Oasis)  
   - [kita 2404](https://github.com/leedoheon98/kita_2404)
-  - [My Educational Oasis](https://github.com/leedoheon98/My-Educational-Oasis)
+  
 
 - 📫 How to reach me: ...    <a href="https://instagram.com/do_heon2">
                                 <img 
